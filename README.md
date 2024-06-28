@@ -4,12 +4,11 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 
 ### Original Design
 
-![](./design/desktop-design.jpg)
-![](./design/mobile-design.jpg)
+![](./design/desktop-preview.jpg)
 
 ### Final Output
 
-![](./Frontend-Mentor-Shortly-URL-shortening-API-Challenge.mp4)
+![](./Frontend-Mentor-Shortly-URL-shortening-API-Challenge-ezgif.com-video-to-gif-converter.gif)
 
 ### Built with
 
